@@ -196,7 +196,7 @@ button {
 
 .home .box .text::after {
   position: absolute;
-  content: 'H';
+  content: 'R';
   font-size: 500px;
   top: -120%;
   font-weight: bold;
